@@ -11,3 +11,18 @@ The external stakeholders are guest, who are the primary end-user and will provi
 Feedback from other hotels platform is also crucial as their feedback and needs drive the project’s features and priorities. 
 The Hotel Reservation System (HRS) project is managed by Byte Force, who is responsible for overall management and resource allocation. 
 As customers, hotel owner may request customization or provide data that informs development. project.  
+
+The problem of hotels often struggle with booking overlaps, slow check-in/check-out processes, poor communication between departments, and inadequate guest service due to fragmented systems.
+
+ This effects the Guest who make the booking.
+
+The impact of which is:
+
+	Leads to customer frustration and loss of trust.
+
+	Results in refunds, compensation, or relocation costs.
+
+	Damages the hotel’s reputation, affecting future bookings.
+
+A successful solution would to eliminate double bookings and improve customer satisfaction, the hotel should implement a centralized, real-time reservation system integrated across all booking channels (e.g., website, front desk, third-party platforms like Booking.com, Expedia, etc.).
+ 
