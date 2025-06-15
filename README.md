@@ -4,3 +4,10 @@ The system enables both guests and hotel staff to efficiently handle reservation
 Modern hotel reservation systems integrate with online travel agencies (OTAs), payment gateways, and analytics tools to enhance customer experience and optimize hotel management.
 The Hotel Management System is designed with AI-Powered Features (with LLM Integration) and AI Chatbot Assistant (Customer-Facing). 
 The Purpose of this implement is for Answer FAQs, help find rooms, guide users through booking Implementation. It Use OpenAI's GPT (via API) or open-source models like LLaMA2.
+The Hotel Reservation System (HRS) is a project embedded within a commercial environment, aimed at hotel owner, guest and administrator.
+It interacts with various internal and external stakeholders of the system that is designed to it. The internal stakeholders are the project team members, hotel owner and administrators. 
+They play an important role in decision making and shaping the functionalities.
+The external stakeholders are guest, who are the primary end-user and will provide feedback on the application’s usability and features. 
+Feedback from other hotels platform is also crucial as their feedback and needs drive the project’s features and priorities. 
+The Hotel Reservation System (HRS) project is managed by Byte Force, who is responsible for overall management and resource allocation. 
+As customers, hotel owner may request customization or provide data that informs development. project.  
